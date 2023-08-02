@@ -1,11 +1,26 @@
 {
-  "freeplan": [
+  "Trail": [
+    "nicemandude"
+  ],
+  "PaidPlan": [
+    "verynicemanbro"
+  ],
+  "Testers": [
+    "Lahcim08",
+    "Frankensteinpug",
+    "Nimagalo_xxl",
+    "Dimonis002Rus",
+    "kirilla1312",
+    "nikyred1231"
+  ],
+  "Developers": [
+    "FunnyThingsIsTrue",
+    "KarII_GG",
+    "smamine1000",
+    "13oij2o1j",
+    "TheDevil123898"
+  ],
+  "Owner": [
     "sans32r5"
-  ],
-  "paidplan": [
-    "roblox"
-  ],
-  "developersplan": [
-    "somerandomnicedude"
   ]
 }
